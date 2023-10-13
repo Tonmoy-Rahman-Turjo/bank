@@ -1,0 +1,94 @@
+
+   
+
+
+.g{
+    font-size: 2.5rem;
+    display: block;
+    text-align: center;
+    padding: 100px;
+    text-transform: uppercase;
+    font-weight: 800;
+    word-spacing: 7px; 
+}
+body{
+    overflow-x: hidden;
+}
+.submit-ariya {
+    box-shadow: 0px 1px 16px #998d8d;
+    padding: 24px 37px;
+    
+        margin-bottom: 50px;
+        border-radius: 5px;
+    
+}
+h4.text-left {
+    margin-bottom: 19px;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: ui-serif;
+    margin-left: 4px;
+}
+
+
+#diposit{
+    display: none;
+}
+h1.hyr {
+    font-size: 29px;
+    text-align: center;
+    padding: 100px;
+    font-weight: 800;
+    color: #ff1212b0;
+    text-transform: uppercase;
+    word-spacing: 11px;
+}
+.dip {
+    background-color: slateblue;
+    text-align: center;
+    border-radius: 5px;
+}
+.kil{
+    text-align: center;
+    background-color: lightsalmon;
+    border-radius: 5px;
+}
+.him{
+    text-align: center;
+    background-color: orange;
+    border-radius: 5px;
+}
+div#diposit {
+    margin-bottom: 50px;
+}
+div#diposit h5{
+    font-size: 22px;
+    font-weight: 800;
+    text-transform: uppercase;
+    padding-top: 29px;
+    padding-bottom: 10px;
+}
+div#diposit h2{
+    font-size: 26px;
+    font-weight: 600;
+    padding-bottom: 37px;
+}
+.hanter {
+    margin-top: 58px;
+    box-shadow: -3px 6px 14px #0000007d;
+    padding: 39px 27px;
+    border-radius: 5px;
+}
+button.btn.btn-success.kolt {
+    margin-top: 14px;
+}
+.row.gty {
+    padding: 0px;
+    margin-left: 0px;
+}
+.hanter h3{
+    font-size: 17px;
+    font-weight: 800;
+    margin-bottom: 18px;
+    text-transform: uppercase;
+}

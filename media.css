@@ -1,0 +1,14 @@
+
+@media (max-width:1100px) and (min-width:200px){
+    .g {
+        font-size: 15px;
+      
+        padding: 43px;
+        
+    }
+    h1.hyr {
+        font-size: 15px;
+        padding: 43px;
+       
+    }
+}
